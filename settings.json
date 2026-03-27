@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Younesc_Bot_NO_KILL",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Younesc_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "amermc.falix.gg",
+    "port": 33362,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Younesc_4321 made Me!",
         "I like to play Minecraft!"
       ]
     },
