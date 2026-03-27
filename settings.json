@@ -8,7 +8,7 @@
   "server": {
     "ip": "amermc.falix.gg",
     "port": 33362,
-    "version": "",
+    "version": "1.12.2",
     "try-creative": false
   },
   "position": {
